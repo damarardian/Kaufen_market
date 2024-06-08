@@ -1,7 +1,4 @@
-Untuk teman teman gw yang sering gw gibahin, katain, bully, gw betak makanan nya, Thankyou~~~
-lumayan lah 1jt wkwkwk
-itung" duit axioo
-
+rest api untuk applikasi koperasi berbasisi web dan mobile menggunakan Laravel
 
 Here Laravel Code for Our Team Member 😋😋
 
